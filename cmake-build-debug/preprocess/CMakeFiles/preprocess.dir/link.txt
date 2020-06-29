@@ -1,0 +1,2 @@
+/usr/bin/ar qc libpreprocess.a  CMakeFiles/preprocess.dir/bin2pcd.cpp.o CMakeFiles/preprocess.dir/lidar_in_camera_range.cpp.o CMakeFiles/preprocess.dir/pcd2bin.cpp.o
+/usr/bin/ranlib libpreprocess.a

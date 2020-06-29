@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfusion.a  CMakeFiles/fusion.dir/optimized_data.cpp.o CMakeFiles/fusion.dir/pseudo_optimized.cpp.o CMakeFiles/fusion.dir/testing_datasets.cpp.o CMakeFiles/fusion.dir/training_datasets.cpp.o
+/usr/bin/ranlib libfusion.a
